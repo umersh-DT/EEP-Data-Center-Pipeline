@@ -1,0 +1,6 @@
+Fiscal_Year,Era,Total_Revenue_Billion_Birr,Net_Income_Loss_Billion_Birr,Total_FX_Revenue_Million_USD,Data_Mining_FX_Contribution_Million_USD,Regional_Export_FX_Contribution_Million_USD,Total_Grid_Generation_GWh,Data_Mining_Consumption_GWh,Data_Mining_Grid_Share_Pct,Est_Hardware_Import_Value_Million_USD,Avg_Customs_Duty_Tariff_Pct,Upfront_Customs_Revenue_Million_USD,Leading_Hardware_Import_Value_Next_Year_FDI
+2021/22,Pre-Data Mining,18.5,-26.2,112.0,0.0,112.0,15400,0,0.0,0.0,5.0,0.0,8.5
+2022/23,Pre-Data Mining,22.0,-24.8,125.0,0.0,125.0,18200,0,0.0,8.5,5.0,0.42500000000000004,55.0
+2023/24,Pre-Data Mining Transition,27.0,-10.0,140.0,15.0,125.0,22100,1100,5.0,55.0,5.0,2.75,195.0
+2024/25,Post-Data Mining Era,75.4,5.2,338.0,220.0,118.0,29480,7960,27.0,195.0,5.0,9.75,260.0
+2025/26 (Proj),Post-Data Mining Era,109.0,14.2,410.0,285.0,125.0,34500,10350,30.0,260.0,5.0,13.0,
